@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ACCORDION/static/css/main.784cb198.chunk.css",
+    "main.js": "/ACCORDION/static/js/main.3d3e0f18.chunk.js",
+    "main.js.map": "/ACCORDION/static/js/main.3d3e0f18.chunk.js.map",
+    "runtime-main.js": "/ACCORDION/static/js/runtime-main.8d6ff81a.js",
+    "runtime-main.js.map": "/ACCORDION/static/js/runtime-main.8d6ff81a.js.map",
+    "static/js/2.618d55ba.chunk.js": "/ACCORDION/static/js/2.618d55ba.chunk.js",
+    "static/js/2.618d55ba.chunk.js.map": "/ACCORDION/static/js/2.618d55ba.chunk.js.map",
+    "index.html": "/ACCORDION/index.html",
+    "static/css/main.784cb198.chunk.css.map": "/ACCORDION/static/css/main.784cb198.chunk.css.map",
+    "static/js/2.618d55ba.chunk.js.LICENSE.txt": "/ACCORDION/static/js/2.618d55ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d6ff81a.js",
+    "static/js/2.618d55ba.chunk.js",
+    "static/css/main.784cb198.chunk.css",
+    "static/js/main.3d3e0f18.chunk.js"
+  ]
+}
